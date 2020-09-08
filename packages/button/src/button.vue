@@ -1,5 +1,6 @@
 <template>
   <div>
+   <span>button</span>
     <button @click="handle"><slot></slot></button>
   </div>
 </template>

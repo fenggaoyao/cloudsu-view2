@@ -10,6 +10,7 @@
     >
       {{ index }}
     </div>
+       <span>steps</span>    
   </div>
 </template>
 

@@ -1,4 +1,5 @@
 <template>
+   <span>link</span>
   <a
     :href="disabled ? null : href"
     :class="[disabled && 'disabled', !underline && 'no-underline']">
