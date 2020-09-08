@@ -10,7 +10,7 @@
     >
       {{ index }}
     </div>
-       <span>steps</span>    
+       <span>steps测试</span>    
   </div>
 </template>
 

@@ -1,6 +1,6 @@
 <template>
   <div>
-   <span>button</span>
+   <span>button测试</span>
     <button @click="handle"><slot></slot></button>
   </div>
 </template>
