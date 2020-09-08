@@ -1,0 +1,13 @@
+{
+  "name": "cloudsu-link",
+  "version": "0.0.4",
+  "description": "",
+  "main": "cjs/index.js",
+  "module": "es/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "gaoyao",
+  "license": "MIT"
+}
