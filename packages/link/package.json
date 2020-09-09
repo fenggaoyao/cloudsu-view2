@@ -4,6 +4,10 @@
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
+  "files": [
+    "index.js",
+    "dist"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
